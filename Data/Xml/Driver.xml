@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfDriver xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Driver>
+    <firstName>F</firstName>
+    <lastName>F</lastName>
+    <age>2</age>
+    <stars>3</stars>
+    <car>0</car>
+  </Driver>
+  <Driver>
+    <firstName>Mark</firstName>
+    <lastName>M</lastName>
+    <age>10</age>
+    <stars>0</stars>
+    <car>0</car>
+  </Driver>
+</ArrayOfDriver>

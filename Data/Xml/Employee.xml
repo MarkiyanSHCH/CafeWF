@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <firstName>Mark</firstName>
+    <lastName>M</lastName>
+    <age>10</age>
+    <stars>1</stars>
+  </Employee>
+  <Employee>
+    <firstName>Mark</firstName>
+    <lastName>M</lastName>
+    <age>10</age>
+    <stars>1</stars>
+  </Employee>
+  <Employee>
+    <firstName>Mark</firstName>
+    <lastName>M</lastName>
+    <age>10</age>
+    <stars>1</stars>
+  </Employee>
+</ArrayOfEmployee>
